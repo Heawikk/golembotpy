@@ -1,0 +1,2 @@
+# golembotpy
+golembot, python, discord
